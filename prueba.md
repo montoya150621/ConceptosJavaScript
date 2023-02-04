@@ -1,0 +1,3 @@
+```jsx
+let perro = amarillo;
+```
