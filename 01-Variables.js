@@ -37,4 +37,4 @@ var persona = {
 // Acceder a un valor especifico en nuestro array(objeto)
 var elementos = ["Computadora","Celular"];
 console.log(elementos[1]);
-// Nos entregara el valor de celular
+// Nos entregara el valor de celular 
